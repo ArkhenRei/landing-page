@@ -144,3 +144,49 @@ button {
   font-weight: 700;
   text-align: end;
 }
+
+/* Action section */
+
+.action {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: #3882f6;
+  width: 1000px;
+  height: 170px;
+  margin: 100px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+}
+
+.action-h1 {
+  margin: auto;
+  color: white;
+  font-size: 24px;
+}
+
+.action-text {
+  margin: auto;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.signup-button {
+  border: 2px solid white;
+  padding: 8px 30px;
+  border-radius: 8px;
+}
+
+/* Footer Section */
+
+.footer-text {
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
